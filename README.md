@@ -1,5 +1,5 @@
 # GDP_Forecasting_Model
-Forecasting India's GDP rate for the years 2022-23 and 2023-24 using an ARIMA model
+Forecasting India's GDP rate for the years 2022-23 and 2023-24 using an ARIMA model.
 
 Dataset: India’s annual GDP Growth rate from 1961 to 2021 was collected from the Reserve Bank of India database. It was then converted to time-series data.
 
